@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uu04KraocvvNV84g6tlCG34/rkdN+Fi9gPWs3NqCaKnhIfGb+mS1s1HeRXhI9YT+MPTtTC7+4TjOcGsdf5wDxA==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\XamarinApp\\SteamAppSln\\Steamsln\\Steam\\Steam.iOS\\Steam.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahdee Salie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rahdee Salie\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Rahdee Salie\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

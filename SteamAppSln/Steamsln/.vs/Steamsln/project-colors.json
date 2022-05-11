@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d187a837-6326-440f-907d-bd0a0e144993": {
+      "ProjectGuid": "d187a837-6326-440f-907d-bd0a0e144993",
+      "DisplayName": "Steam",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
